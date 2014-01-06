@@ -69,7 +69,7 @@ The apps that I developed while working for different employers are
 - IGA Mobile (http://appstore.com/igamobileforenterprise)
 
 ### Test Automation Engineer
-*[News Corp Australia](http://newscorp.com/)*<br/><font color='gray'>April 2013 - Present (10 months) | Sydney, CBD</font>
+*[News Corp Australia](http://newscorp.com/)*<br/><em><font color='gray'>April 2013 - Present (10 months) | Sydney, CBD</font></em>
 
 I have recently started working in a new role as Test Automation Engineer for Mobile.
 It's a new step in my career development as iOS (Mobile) Developer.

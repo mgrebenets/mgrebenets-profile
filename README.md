@@ -51,8 +51,8 @@ Strong 5 years educational background in university with programming and applica
 
 ## Work Experience
 
-### Mobile Apps Development
-_2007 - Present_
+### iOS Developer
+*[i4nApps](http://appstore.com/i4napps)*<br/><em><font color='gray'>2007 - Present (6+ years) | Anywhere</font></em>
 
 I started developing iOS apps as a hobby back in 2007.
 Since then iOS development has become my key area of interest and full time job as of December 2011.
@@ -109,20 +109,13 @@ So far in this new role I got to improve and learn a number of skills.
 - Get more iOS experience from interacting with the dev team
 
 
-### Tata Consultancy Services (TCS)
-_October 2012 - April 2013_
-*Homepage: http://www.tcs.com/worldwide/australia_new_zealand/ANZ/Pages/default.aspx*
-*Location: Sydney, CBD*
+### Senior iOS Developer
+*[Tata Consultancy Services (TCS)](http://www.tcs.com/worldwide/australia_new_zealand/ANZ/Pages/default.aspx)*<br/><em><font color='gray'>October 2012 - April 2013 (7 months) | Sydney, CBD</font></em>
 
-**Senior iOS Developer**
+Worked for TCS clients.
 
-#### Fuji-Xerox Australia
-_TCS Client Account_
-_October 2012 - April 2013_
-*Homepage: http://www.tcs.com/worldwide/australia_new_zealand/ANZ/Pages/default.aspx*
-*Location: Sydney, CBD*
-
-**Senior iOS Developer**
+#### Senior iOS Developer
+*[Fuji-Xerox Australia](http://www.tcs.com/worldwide/australia_new_zealand/ANZ/Pages/default.aspx)*<br/><em><font color='gray'>October 2012 - April 2013 (7 months) | Sydney, CBD</font></em>
 
 Developed an iOS application for Fuji-Xerox Image Gateway enterprise solution.
 http://appstore.com/igamobileforenterprise
@@ -138,12 +131,8 @@ App features:
 - Scan documents directly from Multi-Functional Device to iOS device
 
 
-### Monkeybars Inc.
-_December 2011 - September 2012_
-*Homepage: http://monkeybars.net*
-*Location: Sydney, CBD*
-
-**Lead iOS Developer**
+### Lead iOS Developer
+*[Monkeybars Inc.](http://monkeybars.net)*<br/><em><font color='gray'>December 2011 - September 2012 (10 months) | Sydney, CBD</font></em>
 
 Developed mobile client application for social platform (http://appstore.com/monkeybarsinc).
 
@@ -155,14 +144,10 @@ App features:
 - Rate and comment on content
 
 
-### Samsung Electronics
-_October 2004 - October 2011_
-*Hompage: http://samsung.com*
-*Department: IT Solutions Division (500+ people)*
-*Team: Multi Functional Printer (MFP) System Firmware*
-*Location: Suwon, South Korea*
+### Senior Software Engineer
+*[Samsung Electronics, HQ](http://samsung.com)*<br/><em><font color='gray'>October 2004 - October 2011 (7 years 1 month) | Suwon, South Korea</font></em>
 
-**Senior Sofware Engineer**
+Department: *IT Solutions Division (500+ people)*<br/>Team: *Multi Functional Printer (MFP) System Firmware*<br/>
 
 *Major Duties*
 
@@ -189,34 +174,27 @@ _October 2004 - October 2011_
 - Working and communicating in a big group (100+) of developers
 - Taking part in all stages of product’s life cycle
 
-### Intel Student's Teaching and Research Lab at MSU
-_September 2003 - June 2004_
-*Homepage: http://fao.cs.msu.su/content/intel-student%E2%80%99s-teaching-and-research-lab-msu*
-*Location: Moscow, Russian Federation*
-
-**Research Student**
+### Research Student
+*[Intel Student's Teaching and Research Lab at MSU](http://fao.cs.msu.su/content/intel-student%E2%80%99s-teaching-and-research-lab-msu)*<br/><em><font color='gray'>September 2003 - June 2004 (9 months) | Moscow, Russian Federation</font></em>
 
 Developed components for Open MPI debugging tool.
 
-### "SAIR", Privately Held Company
-_September 2003 - June 2004_
+### Internship as Software Test Engineer
+*["SAIR", Privately Held Company](http://mapia.ua/en/sevastopol/software-development/pe-sair--800021)*<br/><em><font color='gray'>September 2003 - June 2004 (3 months) | Sevastopol, Ukraine</font></em>
 
-**Internship as Software Test Engineer**
+Developed automation tests for XML generation software created by [EDIFECS](http://www.edifecs.com/).
 
 ## Education
 ### Coursera Online Education
-_2011 - Present_
-*Homepage: http://www.coursera.org*
+<em><font color='gray'>2011 - Present | Online</font></em><br/>*Homepage: http://www.coursera.org*
 
 - Design and Analysis of Algorithms (Part I)
 - Game Theory
 - Machine Learning
 - Functional Programming Principles in Scala
 
-### Lomonosov's Moscow State University
-_September 1999 - June 2004_
-*Homepage: http://www.msu.ru/en/*
-*Location: Moscow, Russian Federation*
+### [Lomonosov's Moscow State University
+<em><font color='gray'>1999 - 2004 (5 years) | Moscow, Russian Federation</font></em><br/>*Homepage: http://www.msu.ru/en/*
 
 - Bachelor of Computer Science & Mathematics
 - High Hons

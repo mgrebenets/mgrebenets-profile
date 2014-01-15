@@ -52,7 +52,9 @@ Strong 5 years educational background in university with programming and applica
 ## Work Experience
 
 ### iOS Developer
-*[i4nApps](http://appstore.com/i4napps)*<br/><em><font color='gray'>2007 - Present (6+ years) | Anywhere</font></em>
+*[i4nApps](http://appstore.com/i4napps)*
+
+<em><font color='gray'>2007 - Present (6+ years) | Anywhere</font></em>
 
 I started developing iOS apps as a hobby back in 2007.
 Since then iOS development has become my key area of interest and full time job as of December 2011.
@@ -69,7 +71,9 @@ The apps that I developed while working for different employers are
 - IGA Mobile (http://appstore.com/igamobileforenterprise)
 
 ### Test Automation Engineer
-*[News Corp Australia](http://newscorp.com/)*<br/><em><font color='gray'>April 2013 - Present (10 months) | Sydney, CBD</font></em>
+*[News Corp Australia](http://newscorp.com/)*
+
+<em><font color='gray'>April 2013 - Present (10 months) | Sydney, CBD</font></em>
 
 I have recently started working in a new role as Test Automation Engineer for Mobile.
 It's a new step in my career development as iOS (Mobile) Developer.
@@ -110,12 +114,16 @@ So far in this new role I got to improve and learn a number of skills.
 
 
 ### Senior iOS Developer
-*[Tata Consultancy Services (TCS)](http://www.tcs.com/worldwide/australia_new_zealand/ANZ/Pages/default.aspx)*<br/><em><font color='gray'>October 2012 - April 2013 (7 months) | Sydney, CBD</font></em>
+*[Tata Consultancy Services (TCS)](http://www.tcs.com/worldwide/australia_new_zealand/ANZ/Pages/default.aspx)*
+
+<em><font color='gray'>October 2012 - April 2013 (7 months) | Sydney, CBD</font></em>
 
 Worked for TCS clients.
 
 #### Senior iOS Developer
-*[Fuji-Xerox Australia](http://www.tcs.com/worldwide/australia_new_zealand/ANZ/Pages/default.aspx)*<br/><em><font color='gray'>October 2012 - April 2013 (7 months) | Sydney, CBD</font></em>
+*[Fuji-Xerox Australia](http://www.tcs.com/worldwide/australia_new_zealand/ANZ/Pages/default.aspx)*
+
+<em><font color='gray'>October 2012 - April 2013 (7 months) | Sydney, CBD</font></em>
 
 Developed an iOS application for Fuji-Xerox Image Gateway enterprise solution.
 http://appstore.com/igamobileforenterprise
@@ -132,7 +140,9 @@ App features:
 
 
 ### Lead iOS Developer
-*[Monkeybars Inc.](http://monkeybars.net)*<br/><em><font color='gray'>December 2011 - September 2012 (10 months) | Sydney, CBD</font></em>
+*[Monkeybars Inc.](http://monkeybars.net)*
+
+<em><font color='gray'>December 2011 - September 2012 (10 months) | Sydney, CBD</font></em>
 
 Developed mobile client application for social platform (http://appstore.com/monkeybarsinc).
 
@@ -145,7 +155,9 @@ App features:
 
 
 ### Senior Software Engineer
-*[Samsung Electronics, HQ](http://samsung.com)*<br/><em><font color='gray'>October 2004 - October 2011 (7 years 1 month) | Suwon, South Korea</font></em>
+*[Samsung Electronics, HQ](http://samsung.com)*
+
+<em><font color='gray'>October 2004 - October 2011 (7 years 1 month) | Suwon, South Korea</font></em>
 
 Department: *IT Solutions Division (500+ people)*<br/>Team: *Multi Functional Printer (MFP) System Firmware*<br/>
 
@@ -175,18 +187,24 @@ Department: *IT Solutions Division (500+ people)*<br/>Team: *Multi Functional Pr
 - Taking part in all stages of product’s life cycle
 
 ### Research Student
-*[Intel Student's Teaching and Research Lab at MSU](http://fao.cs.msu.su/content/intel-student%E2%80%99s-teaching-and-research-lab-msu)*<br/><em><font color='gray'>September 2003 - June 2004 (9 months) | Moscow, Russian Federation</font></em>
+*[Intel Student's Teaching and Research Lab at MSU](http://fao.cs.msu.su/content/intel-student%E2%80%99s-teaching-and-research-lab-msu)*
+
+<em><font color='gray'>September 2003 - June 2004 (9 months) | Moscow, Russian Federation</font></em>
 
 Developed components for Open MPI debugging tool.
 
 ### Internship as Software Test Engineer
-*["SAIR", Privately Held Company](http://mapia.ua/en/sevastopol/software-development/pe-sair--800021)*<br/><em><font color='gray'>September 2003 - June 2004 (3 months) | Sevastopol, Ukraine</font></em>
+*["SAIR", Privately Held Company](http://mapia.ua/en/sevastopol/software-development/pe-sair--800021)*
+
+<em><font color='gray'>September 2003 - June 2004 (3 months) | Sevastopol, Ukraine</font></em>
 
 Developed automation tests for XML generation software created by [EDIFECS](http://www.edifecs.com/).
 
 ## Education
 ### Coursera Online Education
-<em><font color='gray'>2011 - Present | Online</font></em><br/>*Homepage: http://www.coursera.org*
+<em><font color='gray'>2011 - Present | Online</font></em>
+
+*Homepage: http://www.coursera.org*
 
 - Design and Analysis of Algorithms (Part I)
 - Game Theory
@@ -194,7 +212,9 @@ Developed automation tests for XML generation software created by [EDIFECS](http
 - Functional Programming Principles in Scala
 
 ### Lomonosov's Moscow State University
-<em><font color='gray'>1999 - 2004 (5 years) | Moscow, Russian Federation</font></em><br/>*Homepage: http://www.msu.ru/en/*
+<em><font color='gray'>1999 - 2004 (5 years) | Moscow, Russian Federation</font></em>
+
+*Homepage: http://www.msu.ru/en/*
 
 - Bachelor of Computer Science & Mathematics
 - High Hons

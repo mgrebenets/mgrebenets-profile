@@ -104,6 +104,7 @@ This is an excellent opportunity to see the "dark side" of mobile development, i
 - Contribute to iOS app source code by adding accessibility labels and identifiers.
 
 *Gained Experience*
+
 So far in this new role I got to improve and learn a number of skills. 
 
 - Setting up and configuring continuous integration environment

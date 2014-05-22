@@ -57,12 +57,12 @@ Strong 5 years educational background in university with programming and applica
 <em><font color='gray'>2007 - Present (6+ years) | Anywhere</font></em>
 
 I started developing iOS apps as a hobby back in 2007.
-Since then iOS development has become my key area of interest and full time job as of December 2011.
+Since then iOS development has become my key area of interest and full time job starting from December 2011 and until recent time.
 
 I have a number of apps in AppStore (http://appstore.com/i4napps). 
 For example a universal app “iBattle Game” (http://appstore.com/ibattlegame) with AppStore rating ranging from 4 to 5 stars.
 
-The app features the use of such core technologies and frameworks as `Cocoa`, `UIKit`, `Core Animation`, `Push Notifications`, `In-App Purchases`, `iCloud`, `Game Kit`, `Game Center`, `Multitasking`, `Wi-Fi/Bluetooth/Online Multiplayer`, `ARC`, `Storyboards`, `Objective-C++` and many more.
+The app features the use of such core technologies and frameworks as `Cocoa`, `UIKit`, `Core Animation`, `Push Notifications`, `In-App Purchases`, `iCloud`, `Game Kit`, `Game Center`, `Multitasking`, `Wi-Fi/Bluetooth/Online Multiplayer`, `ARC`, `Storyboards`, `Objective-C++`, `CocoaPods` and many more.
 
 Additionally I have a few Android apps in Google Play ([Google Play Apps](https://market.android.com/search?q=i4napps&so=1&c=apps))
 
@@ -70,48 +70,47 @@ The apps that I developed while working for different employers are
 - Monkeybars (http://appstore.com/monkeybarsinc)
 - IGA Mobile (http://appstore.com/igamobileforenterprise)
 
-### Developer in Test
+### Developer in Test for Mobile
 *[News Corp Australia](http://newscorp.com/)*
 
 <em><font color='gray'>April 2013 - Present (10 months) | Sydney, CBD</font></em>
 
-I have recently started working in a new role as Test Automation Engineer for Mobile.
+I have recently started working in a new role as Developer in Test for Mobile.
 It's a new step in my career development as iOS (Mobile) Developer.
 
 This is an excellent opportunity to see the "dark side" of mobile development, in particular, get a hands-on experience with such tasks as continuous integration, build automation, automated unit and integration tests, code coverage reports, UI tests automation, static code analysis, test reports and integration with issue tracking systems.
 
-*Continuous Integration*
+*Build Automation*
 
-- Setup and configure Bamboo or Jenkins CI server
-- Create and configure CI plans for iOS, Android and Ruby applications
+- Setup and configure Bamboo/Jenkins build server
+- Configure AWS Linux instance to build Android apps
+- Create and configure build plans for iOS, Android and Ruby applications
 - Use Atlassian CLI plugin for integration with JIRA
   - Automatically create, release and archive project versions in JIRA
   - Automatically create issues for failed tests
-
-*Build Automation*
-
-- Build, package, archive and distribute iOS applications
-- Use command line tools like xcodebuild, xcrun, codesign, xctool, nomad-cli, etc.
-- Create app manifest for OTA (Over the Air) distribution of enterprise builds
+- Build, package, archive and distribute iOS and Android applications
+- Use command line tools like `xcodebuild`, `xcrun`, `codesign`, `xctool`, `nomad-cli`, `iTMSTransporter`, `aapt`, etc.
+- Create app manifest for OTA (Over the Air) distribution of enterprise iOS builds
 - Run static analysis (clang, OCLint) of iOS projects
-- Generate and publish source code documentation (appledoc)
+- Generate and publish source code documentation (appledoc, yard, javadoc)
 
 *UI Tests Automation*
 
 - Use Calabash framework for iOS and Android
-- Design and create cross-platform test suites using Cucumber, Ruby and shell scripts
+- Design and create cross-platform (iOS and Android) test suites using Cucumber, Ruby and shell scripts
 - Run UI automation tests automatically as part of continuous integration process (on iOS Simulator, Android Emulator and real devices as well)
-- Contribute to iOS app source code by adding accessibility labels and identifiers.
+- Contribute to iOS and Android app source code by adding accessibility labels and identifiers.
 
 *Gained Experience*
 
 So far in this new role I got to improve and learn a number of skills. 
 
-- Setting up and configuring continuous integration environment
+- Setting up and configuring build environment for mobile apps
 - Getting to know the guts of iOS app signing and packaging process
 - Learned a new programming language - Ruby
 - Writing shell scripts to automate day to day routine tasks
-- Get more iOS experience from interacting with the dev team
+- Get more iOS and Android experience from interacting with the dev team
+- Learn about setting up and managing AWS cloud instance
 
 
 ### Senior iOS Developer

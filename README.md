@@ -70,7 +70,7 @@ The apps that I developed while working for different employers are
 - Monkeybars (http://appstore.com/monkeybarsinc)
 - IGA Mobile (http://appstore.com/igamobileforenterprise)
 
-### Test Automation Engineer
+### Developer in Test
 *[News Corp Australia](http://newscorp.com/)*
 
 <em><font color='gray'>April 2013 - Present (10 months) | Sydney, CBD</font></em>

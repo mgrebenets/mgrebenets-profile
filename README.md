@@ -210,6 +210,7 @@ Developed automation tests for XML generation software created by [EDIFECS](http
 - Game Theory
 - Machine Learning
 - Functional Programming Principles in Scala
+- Cryptography (Part I)
 
 ### Lomonosov's Moscow State University
 <em><font color='gray'>1999 - 2004 (5 years) | Moscow, Russian Federation</font></em>

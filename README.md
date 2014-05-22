@@ -128,7 +128,7 @@ Worked for TCS clients.
 Developed an iOS application for Fuji-Xerox Image Gateway enterprise solution.
 http://appstore.com/igamobileforenterprise
 
-App features:
+*App features*
 
 - Universal iPhone/iPad app
 - Print documents from iOS device
@@ -146,7 +146,7 @@ App features:
 
 Developed mobile client application for social platform (http://appstore.com/monkeybarsinc).
 
-App features:
+*App features*
 
 - Universal application running on iPhone and iPad
 - Integration with social networks

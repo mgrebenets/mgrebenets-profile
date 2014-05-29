@@ -6,6 +6,7 @@ Maksym Grebenets
 | Location  | Sydney, Sutherland Shire |
 | Mobile     |   0415 048 805 |
 | LinkedIn      |    http://au.linkedin.com/in/mgrebenets |
+| Web Site | http://i4napps.com |
 | StackOverflow | http://stackoverflow.com/users/1095277/i4niac |
 | GitHub | https://github.com/mgrebenets |
 | Coursera | https://www.coursera.org/user/i/66b48af35b7a3e54fdf15aff3da8a918|
@@ -25,7 +26,7 @@ Very interested in Machine Learning, especially practical applications.
 Taking online education courses on coursera.org. 
 Constantly on the look for interesting conferences, workshops and developer meetups.
 
-Actively participating in Open Source community both by sharing my work on GitHub and by contributing to other projects.
+Actively participating in Open Source community both by sharing my work on GitHub and by contributing to other projects (CocoaPods, Calabash Android, etc.).
 
 Strong 5 years educational background in university with programming and application development experience, including mathematical disciplines.
 
@@ -73,7 +74,7 @@ The apps that I developed while working for different employers are
 ### Developer in Test for Mobile
 *[News Corp Australia](http://newscorp.com/)*
 
-<em><font color='gray'>April 2013 - Present (10 months) | Sydney, CBD</font></em>
+<em><font color='gray'>April 2013 - Present | Sydney, CBD</font></em>
 
 I have recently started working in a new role as Developer in Test for Mobile.
 It's a new step in my career development as iOS (Mobile) Developer.
@@ -89,9 +90,9 @@ This is an excellent opportunity to see the "dark side" of mobile development, i
   - Automatically create, release and archive project versions in JIRA
   - Automatically create issues for failed tests
 - Build, package, archive and distribute iOS and Android applications
-- Use command line tools like `xcodebuild`, `xcrun`, `codesign`, `xctool`, `nomad-cli`, `iTMSTransporter`, `aapt`, etc.
+- Use command line tools like `xcodebuild`, `xcrun`, `codesign`, `xctool`, `nomad-cli`, `iTMSTransporter`, `aapt`, Atlassian CLI Client, etc.
 - Create app manifest for OTA (Over the Air) distribution of enterprise iOS builds
-- Run static analysis (clang, OCLint) of iOS projects
+- Run static analysis (clang, OCLint) for iOS projects
 - Generate and publish source code documentation (appledoc, yard, javadoc)
 
 *UI Tests Automation*

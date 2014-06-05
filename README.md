@@ -6,6 +6,7 @@ Maksym Grebenets
 | Location  | Sydney, Sutherland Shire |
 | Mobile     |   0415 048 805 |
 | LinkedIn      |    http://au.linkedin.com/in/mgrebenets |
+| Blog | http://mgrebenets.github.io |
 | Web Site | http://i4napps.com |
 | StackOverflow | http://stackoverflow.com/users/1095277/i4niac |
 | GitHub | https://github.com/mgrebenets |
@@ -222,6 +223,10 @@ Developed automation tests for XML generation software created by [EDIFECS](http
 - High Hons
 
 ## Personal Skills & Interests
+
+
+----------
+
 
 - An open minded team player willing to communicate and learn
 - Approaching stressful situations with a bit of humor, but never backing out

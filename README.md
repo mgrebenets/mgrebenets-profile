@@ -86,7 +86,7 @@ I am also responsible for setting, configuring and managing Continuous Integrati
 ### Developer in Test for Mobile
 *[News Corp Australia](http://newscorp.com/)*
 
-<em><font color='gray'>April 2013 - Present | Sydney, CBD</font></em>
+<em><font color='gray'>April 2013 - October 2014 (1 year 7 months) | Sydney, CBD</font></em>
 
 Working as Developer in Test for Mobile was a new step in my career development as iOS (Mobile) Developer.
 

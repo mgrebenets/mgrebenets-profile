@@ -15,7 +15,7 @@ Maksym Grebenets
 
 
 ## Summary
-Solid 6+ years background with mobile iOS development.
+Solid 8+ years background with mobile iOS development.
 A number of apps in AppStore, both my personal and developed for employers.
 Software Tests Automation experience for mobile apps (native, web and hybrid, iOS and Android).
 A great passion and equal experience with Continuous Integration and Delivery for mobile apps, both iOS and Android.
@@ -23,14 +23,14 @@ A great passion and equal experience with Continuous Integration and Delivery fo
 Full 7 years working in a big IT company (Samsung Electronics).
 Taking part in all of software development life cycle stages, starting with requirements specification and ending up with testing and support.
 
-Always keeping an eye on new things, e.g. Swift.
+Always keeping an eye on new things.
 Taking online education courses on [Coursera](https://www.coursera.org/user/i/66b48af35b7a3e54fdf15aff3da8a918).
 Trying to keep my problem solving skills in good shape with [HackerRank](https://www.hackerrank.com/mgrebenets).
 Occasionally posting new articles to [my personal blog](http://nsbogan.com.au).
-Constantly on the look for interesting conferences, workshops and developer meetups. Making a small contribution to [Sydney Testers meetup group](http://www.meetup.com/Sydney-Testers/events/190908382/).
+Constantly on the look for interesting conferences, workshops and developer meetups. Making a small contribution to [Sydney Testers meetup group](http://www.meetup.com/Sydney-Testers/events/190908382/) in the past.
 Very interested in Machine Learning, especially practical applications.
 
-Actively participating in Open Source community both by sharing [my work on GitHub](https://github.com/mgrebenets) and by contributing to other projects (CocoaPods, Calabash Android, etc.).
+Actively participating in Open Source community both by sharing [my work on GitHub](https://github.com/mgrebenets) and by contributing to other projects (Fastlane, CocoaPods, Calabash Android, etc.).
 
 Strong 5 years Computer Science and Mathematics educational background in university with programming and application development experience.
 
@@ -50,7 +50,7 @@ Additionally I have a few Android apps in Google Play ([Google Play Apps](https:
   - Swift, Objective-C/C++, C, C++, Java, Ruby
   - HTML, XML, HTTP(S), JSON, XMPP, REST, UML 2.0, Smart Cards, etc.
   - Google App Engine, Google Web Toolkit, JDO
-  - Scripting skills with Bash, Python, Perl, Ruby
+  - Scripting skills with Bash, Ruby, Python, Perl
 - Platforms & Operational Systems
   - iOS – strong development experience (7+ years), [AppStore Apps](http://appstore.com/i4napps)
   - Android OS - fair development experience (~3 years), [Google Play Apps](https://market.android.com/search?q=i4napps&so=1&c=apps)
@@ -67,21 +67,34 @@ Additionally I have a few Android apps in Google Play ([Google Play Apps](https:
 
 ## Work Experience
 
+### Senior Software Engineer - iOS
+*[Commonwealth Bank of Australia](https://www.commbank.com.au/personal/online-banking/commbank-app.html)*
+
+<em><font color='gray'>September 2015 - Present | Sydney, CBD</font></em>
+
+After joining CBA iOS team I have worked on a number of features for [CommBank Tablet app](https://itunes.apple.com/au/app/commbank-app-for-tablet/id447020285?mt=8) and [CommBank iPhone app](https://itunes.apple.com/au/app/commbank/id310251202?mt=8).
+
+Currently I am part of a core team developing reusable native iOS frameworks for core banking functionality.
+
+I have also set up continuous integration pipelines for dozens of iOS framework projects and a handful of iOS app projects using [Fastlane tools](https://fastlane.tools/) and [TeamCity](https://www.jetbrains.com/teamcity/) job templates. Pipelines include such jobs as:
+
+- Standard CI jobs: build, test, coverage, lint, analyze, report, etc.
+- Resigning builds for AppStore distribution
+- Creating iOS simulator and device builds for UI automation tests
+
 ### Senior iOS Developer
 *[Fairfax Media](http://www.fairfaxmedia.com.au/)*
 
-<em><font color='gray'>October 2014 - Present (9 months) | Sydney, CBD</font></em>
+<em><font color='gray'>October 2014 - August 2015 (10 months) | Sydney, CBD</font></em>
 
 Working on new versions of iPad apps, such as
 
 - Australian Financial Review
 - Brisbane Times
 
-With future releases to include Sydney Morning Herald, Canberra Times and The Age.
-
 Developing native iOS apps full-time I work with core iOS technologies and frameworks, including Auto-Renewable iTunes Subscriptions and Push Notifications.
 
-I am also responsible for setting, configuring and managing Continuous Integration and Delivery for iOS apps. This job involves managing Jenkins instance, supporting builds for multiple branches and pull request, uploading builds automatically to HockeyApp, TestFlight and for Over The Air distribution.
+I was also responsible for setting, configuring and managing Continuous Integration and Delivery for iOS apps. This job involved managing Jenkins instance, supporting builds for multiple branches and pull request, uploading builds automatically to HockeyApp, TestFlight and for Over The Air distribution.
 
 ### Developer in Test for Mobile
 *[News Corp Australia](http://newscorp.com/)*
@@ -111,7 +124,7 @@ This was an excellent opportunity to see the "dark side" of mobile development, 
 - Use Calabash framework for iOS and Android
 - Design and create cross-platform (iOS and Android) test suites using Cucumber, Ruby and shell scripts
 - Run UI automation tests automatically as part of continuous integration process (on iOS Simulator, Android Emulator and real devices as well)
-- Contribute to iOS and Android app source code by adding accessibility labels and identifiers.
+- Contribute to iOS and Android app source code by adding accessibility labels and identifiers
 
 *Gained Experience*
 

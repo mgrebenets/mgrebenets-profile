@@ -34,7 +34,7 @@ To be able to apply all the tools, I've worked hands on with continuous integrat
   - Scripting skills with Bash, Ruby, Python, Perl
   - Build systems: Buck, Bazel
 - Platforms & Operational Systems
-  - iOS – strong development experience (11+ years), [AppStore Apps](http://appstore.com/i4napps)
+  - iOS – strong development experience (11+ years), [App Store Apps](http://appstore.com/i4napps)
   - Android OS - fair development experience (~3 years), [Google Play Apps](https://market.android.com/search?q=i4napps&so=1&c=apps)
   - Embedded OS: pSOS, ThreadX, VxWorks, Embedded Linux – strong development experience (6+ years)
   - Google App Engine and Google Web Toolkit - strong development experience (~2 years)
@@ -53,13 +53,13 @@ To be able to apply all the tools, I've worked hands on with continuous integrat
 
 *[Commonwealth Bank of Australia](https://www.commbank.com.au/personal/online-banking/commbank-app.html)*
 
-<em><font color='gray'>September 2015 - Present | Sydney, CBD</font></em>
+<em><font color='gray'>February 2017 - Present | Sydney, CBD</font></em>
 
 ### Senior Software Engineer - iOS
 
 *[Commonwealth Bank of Australia](https://www.commbank.com.au/personal/online-banking/commbank-app.html)*
 
-<em><font color='gray'>September 2015 - Present | Sydney, CBD</font></em>
+<em><font color='gray'>September 2015 - February 2017 | Sydney, CBD</font></em>
 
 After joining CBA iOS team I have worked on a number of features for [CommBank Tablet app](https://itunes.apple.com/au/app/commbank-app-for-tablet/id447020285?mt=8) and [CommBank iPhone app](https://itunes.apple.com/au/app/commbank/id310251202?mt=8).
 
@@ -68,8 +68,8 @@ Currently I am part of a core team developing reusable native iOS frameworks for
 I have also set up continuous integration pipelines for dozens of iOS framework projects and a handful of iOS app projects using [Fastlane tools](https://fastlane.tools/) and [TeamCity](https://www.jetbrains.com/teamcity/) job templates. Pipelines include such jobs as:
 
 - Standard CI jobs: build, test, code coverage, lint, analyze, report, etc.
-- Resigning builds for AppStore distribution
-- TODO
+- Resigning builds for App Store distribution
+- Automatic uploads to App Store Connect
 - Creating iOS simulator and device builds for UI automation tests
 
 ### Senior iOS Developer

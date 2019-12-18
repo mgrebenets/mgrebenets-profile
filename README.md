@@ -4,7 +4,8 @@
 | ------------- | ---------------------------------------------------------------- |
 | Location      | Sydney, Australia                                                |
 | Mobile        | 0415 048 805                                                     |
-| Blog          | https://nsbogan.com.au                                           |
+| Blog          | https://mgrebenets.github.io                                     |
+| Medium        | https://medium.com/@maksymgrebenets                              |
 | GitHub        | https://github.com/mgrebenets                                    |
 | LinkedIn      | https://au.linkedin.com/in/mgrebenets                            |
 | HackerRank    | https://www.hackerrank.com/mgrebenets                            |
@@ -24,6 +25,8 @@ One of my key strenghts is designing modular architecture and building reusable 
 I've got great passion for build and automation tools. Digging deep into Apple code signing process led me all the way into Fastlane core contributors team. Recently I've been using Buck to build a dozen of internal frameworks.
 
 To be able to apply all the tools, I've worked hands on with continuous integrations solutions, such as Jenkins, Bamboo, TeamCity and Xcode Bots.
+
+I [blog](https://mgrebenets.github.io) about things I [learn](https://medium.com/@maksymgrebenets).
 
 ## Professional Skills
 
